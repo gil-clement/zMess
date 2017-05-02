@@ -1,0 +1,5 @@
+source : https://tutorial.djangogirls.org/fr/django_installation/
+  étape:
+    - créer un environement virtuel (venv application) //permet  de lier la bonne version de python en 3.4
+    - entre dans l'enverinement virtuel
+    - installer django 
